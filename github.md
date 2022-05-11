@@ -2,7 +2,7 @@
 ## First Day of Coding in the Charlie Cohort
 ### Vocabulary
 - git
-- GitHub
+- GitHub ; Area where information is stored
 - branch
 - remote and local
 - repository (repo)
