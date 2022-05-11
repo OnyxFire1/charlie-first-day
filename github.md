@@ -5,7 +5,7 @@
 - GitHub ; Area where information is stored
 - branch
 - remote and local
-- repository (repo)
+- repository (repo) Is a folder where files are stored
 - clone (git clone https...)
 - push and pull (action of moving code on a branch between local and remote)
 - difference (diff) when your local and remote versions do not match
