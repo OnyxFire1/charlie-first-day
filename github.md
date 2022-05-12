@@ -10,3 +10,4 @@
 - push and pull (action of moving code on a branch between local and remote)
 - difference (diff) when your local and remote versions do not match
 - reconcile -to make the versions between local and remote match
+# Practice
