@@ -10,3 +10,16 @@
 - push and pull (action of moving code on a branch between local and remote)
 - difference (diff) when your local and remote versions do not match
 - reconcile -to make the versions between local and remote match
+# Practice
+- practice makes perfect keep at it
+- Do not give up on yourself
+- may the force be with us
+- I appreciate the support from my cohort
+- drinks chicago!
+- Party like a rockstar when we graduate
+- Party like it's your birthday
+- were getting there
+- Keep hope alive
+- Hope is for the weak, only effort
+- Don the man
+- The man needs sleep
