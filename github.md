@@ -22,3 +22,4 @@
 - Keep hope alive
 - Hope is for the weak, only effort
 - Don the man
+- The man needs sleep
