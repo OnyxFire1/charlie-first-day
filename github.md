@@ -14,4 +14,5 @@
 - practice makes perfect keep at it
 - Do not give up on yourself
 - may the force be with us
+- I appreicate the support from my cohort
 
