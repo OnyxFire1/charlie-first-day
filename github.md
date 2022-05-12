@@ -12,3 +12,4 @@
 - reconcile -to make the versions between local and remote match
 # Practice
 - practice makes perfect keep at it
+- Do not give up on yourself
