@@ -18,3 +18,4 @@
 - drinks chicago!
 - Party like a rockstar when we graduate
 - Part like it's your birthday
+- were getting there
