@@ -16,4 +16,5 @@
 - may the force be with us
 - I appreicate the support from my cohort
 - drinks chicago!
+- Party like a rockstar when we graduate
 
