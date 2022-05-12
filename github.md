@@ -14,9 +14,10 @@
 - practice makes perfect keep at it
 - Do not give up on yourself
 - may the force be with us
-- I appreicate the support from my cohort
+- I appreciate the support from my cohort
 - drinks chicago!
 - Party like a rockstar when we graduate
-- Part like it's your birthday
+- Party like it's your birthday
 - were getting there
-Keep hope alive
+- Keep hope alive
+- Hope is for the weak, only effort
