@@ -11,3 +11,4 @@
 - difference (diff) when your local and remote versions do not match
 - reconcile -to make the versions between local and remote match
 # Practice
+- practice makes perfect keep at it
