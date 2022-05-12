@@ -21,3 +21,4 @@
 - were getting there
 - Keep hope alive
 - Hope is for the weak, only effort
+- Don the man
